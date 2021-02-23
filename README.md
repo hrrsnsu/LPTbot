@@ -10,7 +10,6 @@ This bot will utilize Reddit PRAW wrapper and twitter tweepy API. It will obtain
 Requirements:
 
 tweepy v2.11.1
-
 praw v0.54.0
 
 Credits:
