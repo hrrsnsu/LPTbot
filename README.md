@@ -10,6 +10,7 @@ python -m pip install praw
 ```
 ## Usage
 API Keys taken out for security. Use your own personal API keys to test!
+To do this, set the variables (ACCESS_TOKEN, ACCESS_SECRET etc.) to your provided keys.
 
 ## Credits
 Harrison Su
